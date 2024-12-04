@@ -1,0 +1,4 @@
+.pio
+.cache
+src/secretsbak.h
+compile_commands.json
