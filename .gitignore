@@ -1,4 +1,4 @@
 .pio
 .cache
-src/secretsbak.h
+src/secrets.h
 compile_commands.json
